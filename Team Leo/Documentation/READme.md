@@ -1,6 +1,6 @@
 # Team Leo
 
-![LEO Logo Image](https://github.com/prahladinala/GettingStartedWithGitHubInGNI/tree/main/Team%20Leo/Documentation/logo.png "LEO Logo Image")
+![LEO Logo Image](https://github.com/prahladinala/GettingStartedWithGitHubInGNI/blob/main/Team%20Leo/Documentation/logo.png "LEO Logo Image")
 
 Prototype URL:
 
